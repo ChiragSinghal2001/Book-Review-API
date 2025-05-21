@@ -45,8 +45,7 @@ This guide will help you run the Book Review API locally on your machine.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/book-review-api.git
-cd book-review-api
+git clone https://github.com/ChiragSinghal2001/Book-Review-API.git
 ```
 
 ### 2. Install dependencies
